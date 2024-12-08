@@ -170,4 +170,4 @@ Program telas Selesai, Terima Kasih
 ```
 
 # Flowchart 
-![Flowchart](flowchartpert12.png)
+![Flowchart](flowchartpert12.jpg)
